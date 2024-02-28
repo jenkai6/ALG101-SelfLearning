@@ -17,6 +17,7 @@ function solve(lines) {
     [a,b] = lines[0].split(' '); // ['1','1']
     [c,d] = lines[1].split(' '); // ['2','3']
     [e,f] = lines[2].split(' '); // ['0','0']
+    console.log('your ans');
 }
 
 // solve([
